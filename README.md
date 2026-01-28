@@ -3,7 +3,7 @@
 A simple and responsive stationery website where users can explore different stationery products like pens, notebooks, files, and more.
 
 ## 🌐 Live Demo
-👉 (https://wwebsite890-hub.github.io/WEB1/)
+👉 (https://wwebsite890-hub.github.io/com/)
 
 ## 📌 Features
 - Clean & user-friendly UI
